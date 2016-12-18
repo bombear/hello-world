@@ -1,0 +1,26 @@
+#myContainer {
+    margin:auto;
+    width: 400px;
+    height: 400px;
+    position: relative;
+    background: black;
+}
+#myAnimation {
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    background-color: blue;
+}
+#myContainer2 {
+    margin:auto;
+    width: 400px;
+    height: 400px;
+    position: relative;
+    background: yellow;
+}
+#myAnimation2 {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    background-color: red;
+}
